@@ -16,7 +16,7 @@ timezone:
 
 title: Kyung eun Park # the main title
 
-tagline: PhD Candidate and Researcher at University of Mannheim# it will display as the sub-title
+tagline: PhD Candidate and Researcher at University of Mannheim # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -42,7 +42,7 @@ social:
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/kyung-eun-trixie-park-151b35158/
 
 google_site_verification: # fill in to your verification string
 
