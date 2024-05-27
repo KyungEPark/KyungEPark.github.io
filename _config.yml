@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kyung eun (Trixie) Park / Personal Blog"
+title                    : "Kyung eun (Trixie) Park"
 title_separator          : "-"
 name                     : &name "Kyung eun (Trixie) Park"
 description              : &description "Hi, I am a PhD candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim . My research interests are: DEI (Diversity, Equality and Inclusion) at the CEO / top management level, AI (Artificial intelligence) utilization in Management research including utilizing linguistic properties of CEOs / entrepreneurs using NLP (Natural language processing), and investigation of different impacts of gender quota regulations."
