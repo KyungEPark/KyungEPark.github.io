@@ -21,4 +21,4 @@ Course content:
 - Instruction of implementing econometric analysis using STATA
 
 ### Duration
-2 semesters
+2 semesters (FW 2020 & SS 2021)
