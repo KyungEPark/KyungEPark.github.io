@@ -23,8 +23,9 @@ You can always ask me anything you are curious about the two countries, and I wi
 In my free times, I enjoy a variety of hobbies that I sometimes cannot manage, including playing flute, singing and dancing, baking, drawing, and playing games. Traveling has been also in the list, but since COVID crisis in addition to the adult life flushing on me, my travel soul has not spread its wings.
 My MBTI (Myers–Briggs Type Indicator) is **ENTP**.
 
-*Disclaimer: I should not rely too much on MBTI, being an organization researcher - but this is big in Korea* {: .notice}
-
+{: .notice}
+*Disclaimer: I should not rely too much on MBTI, being an organization researcher - but this is big in Korea* 
+{: .notice}
 
 My research interests
 ------
