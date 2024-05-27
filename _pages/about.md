@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is a personal page for Kyung eun (Trixie) Park.
 
 
 About myself
