@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kyung eun (Trixie) Park"
   pronouns         : "she/her"  
   bio              : "Researcher and PhD Candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim"
