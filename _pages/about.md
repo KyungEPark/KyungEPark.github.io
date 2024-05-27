@@ -24,7 +24,7 @@ In my free times, I enjoy a variety of hobbies that I sometimes cannot manage, i
 My MBTI (Myers–Briggs Type Indicator) is **ENTP**.
 
 
-*Disclaimer*: I should not rely too much on MBTI, being an organizational researcher - but this is big in Korea :D
+*Disclaimer: I should not rely too much on MBTI, being an organizational researcher - but this is big in Korea :D*
 {: .notice}
 
 
