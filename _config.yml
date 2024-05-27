@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Kyung eun (Trixie) Park / Personal Blog"
 title_separator          : "-"
 name                     : &name "Kyung eun (Trixie) Park"
-description              : &description "Hi, I am a PhD student at the University of Mannheim."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Hi, I am a PhD candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim . My research interests are: DEI (Diversity, Equality and Inclusion) at the CEO / top management level, AI (Artificial intelligence) utilization in Management research including utilizing linguistic properties of CEOs / entrepreneurs using NLP (Natural language processing), and investigation of different impacts of gender quota regulations."
+url                      : https://KyungEPark.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Kyung eun (Trixie) Park"
+  pronouns         : "she/her"  
+  bio              : "Researcher and PhD Candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim"
+  location         : "Mannheim, Germany"
+  employer         : "Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kyung.eun.park@uni-mannheim.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EDOQnnsAAAAJ&hl=ko"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0006-8951-4068"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "KyungEPark"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
