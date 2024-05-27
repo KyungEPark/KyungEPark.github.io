@@ -15,8 +15,8 @@ description              : &description "Hi, I am a PhD candidate at Institut fu
 url                      : https://KyungEPark.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-#theme                    : minimal-mistakes-jekyll
-#minimal_mistakes_skin    : dark
+# theme                    : minimal-mistakes-jekyll
+# minimal_mistakes_skin    : dark
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
