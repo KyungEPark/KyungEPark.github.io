@@ -10,6 +10,7 @@ location: "Mannheim, Germany"
 
 ### Course information
 Course name: MAN 770 - Research Seminar
+
 Course content:
 - Introduction to academic writing
 - Seminar regarding Strategic leadership and Family firms
