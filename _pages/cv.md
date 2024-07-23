@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Management, University of Mannheim (Germany), 2027 (expected)
