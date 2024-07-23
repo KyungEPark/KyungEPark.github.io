@@ -11,35 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management, University of Mannheim (Germany), 2027 (expected)
+* M.S. in Management (MMM), University of Mannheim (Germany), 2021
+* B.S. in Business Administration, Sungkyunkwan University (South Korea), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2023 ~ today: Researcher and PhD Candidate
+  * **Institut fuer Mittelstandsforschung** at University of Mannheim
+  * Duties includes:
+    * Analysis, visualization and predictive modelling of global corporate data
+    * TransforMA: Consulting and fostering impact entrepreneurship in the city of Mannheim
+  * Supervisor: Prof. Dr. Woywode
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2021 ~ 08/2023: Client Services Consultant
+  * Cocomore AG, Germany
+  * Duties included:
+    * External consultation and internal communication for IT projects on B2B platforms
+    * Management of an international consumer electronics account
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 11/2019 ~ 02/2021: Research Assistant
+  * **Institut fuer Mittelstandsforschung** at University of Mannheim
+  * Duties included: 
+    * Tutoring course for statistical analysis using STATA
+    * Research on CEO succession in family firms
+   
+* 02/2019 ~ 08/2019: Student Assistant
+  * Human Resources Department at Sungkyunkwan University
+  * Duties included:
+    * Consultation for HR projects
+    * Preparation and teaching of HR courses
+    * Research on dark side of Organizational Citizenship Behavior(OCB) in workplace
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skills
+  * Korean (Native)
+  * English (Fluent)
+  * German (Fluent)
+* Coding Skills
+  * Python (Advanced)
+  * STATA (Advanced)
+*     
 
 Publications
 ======
