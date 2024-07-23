@@ -23,7 +23,7 @@ In my free times, I enjoy a variety of hobbies that I sometimes cannot manage, i
 My MBTI (Myers–Briggs Type Indicator) is **ENTP**.
 
 
-*Disclaimer: I should not rely too much on MBTI, being an organizational researcher - but this is big in Korea :D*
+*Disclaimer: I should not rely too much on MBTI, being a researcher - but this is big in Korea :D*
 {: .notice}
 
 
@@ -36,4 +36,4 @@ You can read more about them in my working papers.
 
 Contact me
 ------
-If you see interesting research where we can cooperate or would like to share any feedback of my works, please do not hesistate to contact me via my email.
+If you see interesting research where we can cooperate or would like to share any feedback of my works, please do not hesistate to contact me via my email (*kyung.eun.park@uni-mannheim.de*).
