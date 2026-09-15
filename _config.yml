@@ -14,7 +14,7 @@ name                     : &name "Kyung eun (Trixie) Park"
 description              : &description "Hi, I am a PhD candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim . My research interests are: DEI (Diversity, Equality and Inclusion) at the CEO / top management level, AI (Artificial intelligence) utilization in Management research including utilizing linguistic properties of CEOs / entrepreneurs using NLP (Natural language processing), and investigation of different impacts of gender quota regulations."
 url                      : https://KyungEPark.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KyungEPark/KyungEPark.github.io"
 # theme                    : minimal-mistakes-jekyll
 # minimal_mistakes_skin    : dark
 
@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=EDOQnnsAAAAJ&hl=ko"
+  googlescholar    : "https://scholar.google.com/citations?user=EDOQnnsAAAAJ&hl=en"
   orcid            : "http://orcid.org/0009-0006-8951-4068"
   researchgate     : "https://www.researchgate.net/profile/Kyung-Park-18?ev=hdr_xprf"
 
