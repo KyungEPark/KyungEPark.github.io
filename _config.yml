@@ -23,10 +23,10 @@ repository               : "KyungEPark/KyungEPark.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Kyung eun (Trixie) Park"
   pronouns         : "she/her"  
-  bio              : "Researcher and PhD Candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim"
+  bio              : "PhD Candidate at Institut fuer Mittelstandsforschung (IfM), University of Mannheim. Visiting Student Researcher at Stanford University."
   location         : "Mannheim, Germany"
   employer         : "University of Mannheim"
   uri              : "https://www.institut-fuer-mittelstandsforschung.de/kos/WNetz?art=Person.show&id=278"
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "trixie_in_mannheim"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "kyung-eun-trixie-park-151b35158"
   mastodon         : # URL
