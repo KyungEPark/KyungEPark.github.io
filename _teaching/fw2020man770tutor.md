@@ -13,12 +13,12 @@ Course name: MAN 770 - Research Seminar
 
 Course content:
 - Introduction to academic writing
-- Seminar regarding Strategic leadership and Family firms
-- Coaching of statistical analysis and econometrics in research
+- Seminar on strategic leadership and family firms
+- Coaching in statistical analysis and econometrics for research
 
 ### My contribution
-- Tutoring of basic STATA usage for seminar paper
-- Instruction of implementing econometric analysis using STATA
+- Tutoring students in the basics of STATA for their seminar papers
+- Teaching how to implement econometric analysis in STATA
 
 ### Duration
 2 semesters (FW 2020 & SS 2021)
