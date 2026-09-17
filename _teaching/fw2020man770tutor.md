@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's course"
 permalink: /teaching/man770tutor
 venue: "University of Mannheim, Chair of Entrepreneurship and SME Research"
-date: 2020-02-01
+date: 2020-09-01
 location: "Mannheim, Germany"
 ---
 
