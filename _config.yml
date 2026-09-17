@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kyung eun (Trixie) Park"
 title_separator          : "-"
 name                     : &name "Kyung eun (Trixie) Park"
-description              : &description "Hi, I am a PhD candidate at Institut fuer Mittelstandsforschung (IfM) of the University of Mannheim. My research interests are: DEI (Diversity, Equality and Inclusion) at the CEO / top management level, AI (Artificial intelligence) utilization in Management research including utilizing linguistic properties of CEOs / entrepreneurs using NLP (Natural language processing), and investigation of different impacts of gender quota regulations."
+description              : &description "PhD candidate at the Institute for SME Research (ifm), University of Mannheim. Research on top management team diversity, female entrepreneurship, and AI in entrepreneurship."
 url                      : https://KyungEPark.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KyungEPark/KyungEPark.github.io"
@@ -29,7 +29,7 @@ author:
   bio              : "PhD Candidate at Institut fuer Mittelstandsforschung (IfM), University of Mannheim. Visiting Student Researcher at SCANCOR, Stanford University."
   location         : "Mannheim, Germany"
   employer         : "University of Mannheim"
-  uri              : "https://www.institut-fuer-mittelstandsforschung.de/kos/WNetz?art=Person.show&id=278"
+  uri              : "https://www.uni-mannheim.de/en/ifm/about-us/team/kyung-eun-park/"
   email            : "kyung.eun.park@uni-mannheim.de" 
 
   # Academic websites

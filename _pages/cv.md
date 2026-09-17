@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management, University of Mannheim (Germany), 2027 (expected)
+* Ph.D in Management, Graduate School of Economic and Social Sciences (GESS), University of Mannheim (Germany), 2027 (expected)
 * M.S. in Management (MMM), University of Mannheim (Germany), 2021
 * B.S. in Business Administration, Sungkyunkwan University (South Korea), 2019
 
