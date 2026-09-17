@@ -18,9 +18,13 @@ Education
 
 Work experience
 ======
+* Fall 2026: Visiting Student Researcher
+  * SCANCOR (Scandinavian Consortium for Organizational Research), Stanford University
+  * Program director: Prof. Patricia Bromley
+
 * 09/2023 ~ today: Researcher and PhD Candidate
   * Institut fuer Mittelstandsforschung at University of Mannheim
-  * Duties includes:
+  * Duties include:
     * Analysis, visualization and predictive modelling of global corporate data
     * TransforMA: Consulting and fostering impact entrepreneurship in the city of Mannheim
   * Supervisor: Prof. Dr. Woywode

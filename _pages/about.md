@@ -30,4 +30,4 @@ My current research focuses on two major topics: female entrepreneurship and the
 
 Contact me
 ------
-If you see interesting research where we can cooperate or would like to share any feedback of my works, please do not hesistate to contact me via my email (*kyung.eun.park@uni-mannheim.de*).
+If you see interesting research where we can cooperate or would like to share any feedback of my works, please do not hesitate to contact me via my email (*kyung.eun.park@uni-mannheim.de*).
