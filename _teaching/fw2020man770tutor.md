@@ -3,7 +3,7 @@ title: "MAN 770 - STATA tutorship"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/man770tutor
-venue: "University of Mannheim, Chair of Entrepreneurship and SME Research"
+venue: "University of Mannheim, Chair of SME Research and Entrepreneurship"
 date: 2020-09-01
 location: "Mannheim, Germany"
 ---

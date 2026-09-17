@@ -23,7 +23,7 @@ Work experience
   * Program director: Prof. Patricia Bromley
 
 * 09/2023 ~ today: Researcher and PhD Candidate
-  * Institut fuer Mittelstandsforschung at University of Mannheim
+  * Institut für Mittelstandsforschung at University of Mannheim
   * Duties include:
     * Analysis, visualization and predictive modelling of global corporate data
     * TransforMA: Consulting and fostering impact entrepreneurship in the city of Mannheim
@@ -36,7 +36,7 @@ Work experience
     * Management of an international consumer electronics account
 
 * 11/2019 ~ 02/2021: Research Assistant
-  * Institut fuer Mittelstandsforschung at University of Mannheim
+  * Institut für Mittelstandsforschung at University of Mannheim
   * Duties included: 
     * Tutoring course for statistical analysis using STATA
     * Research on CEO succession in family firms
