@@ -9,15 +9,11 @@ redirect_from:
 
 About myself
 ------
-Hi! I am glad that you decided to visit my personal page.
-My name is Kyung eun Park. Trixie is my nickname that eases a lot of people to call and remember my name. You are free to decide which name you want to call me as. 
-I come from South Korea, but have been living in Germany since fall of 2019. I have started my journey as a researcher since late 2023, at the University of Mannheim.
+Welcome to my personal page. I am a research associate and PhD candidate at the Institut für Mittelstandsforschung (IfM), University of Mannheim, and I am currently a visiting student researcher at SCANCOR, Stanford University.
 
-You can always ask me anything you are curious about the two countries, and I will do my best to answer your questions. I am in general interested in cultural talks, and am quite informed about cultural studies although I am not an expert.
+My name is Kyung eun Park; I also go by Trixie, and either is welcome. Originally from South Korea, I have been based in Germany since 2019. I hold an M.Sc. in Management from the University of Mannheim and worked in IT consulting and account management before beginning my research career at the IfM in 2023.
 
-My MBTI (Myers–Briggs Type Indicator) is **ENTP**.
-*Disclaimer: I should not rely too much on MBTI, being a researcher - but this is big in Korea :D*
-{: .notice}
+Alongside my research, I have a longstanding interest in cross-cultural questions, particularly between Korea and Germany, and I am always glad to discuss them.
 
 
 My research interests
@@ -30,7 +26,7 @@ I am currently working on manuscripts on the effects of regulation on gendered e
 
 Contact me
 ------
-If you see interesting research where we can cooperate or would like to share any feedback of my works, please do not hesitate to contact me via my email (*kyung.eun.park@uni-mannheim.de*).
+If you see scope for collaboration, or would like to share feedback on my work, please feel free to reach me by email at *kyung.eun.park@uni-mannheim.de*.
 
 **Office:** Ehrenhof Ost, Room EO 269, University of Mannheim, 68161 Mannheim, Germany
 
