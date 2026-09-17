@@ -18,7 +18,7 @@ Alongside my research, I have a longstanding interest in cross-cultural question
 
 My research interests
 ------
-My research spans diversity, entrepreneurship, and AI, with a focus on top management team diversity, female entrepreneurship, and the societal implications of AI in entrepreneurial contexts.
+My research examines gender, human-AI interaction, and policy in entrepreneurship. Within these areas I work on top management team diversity, female entrepreneurship, the effects of gender quota regulation, and the societal implications of AI in entrepreneurial contexts.
 
 Methodologically, I work with big data and AI-driven research methods. This includes natural language processing (NLP) applied to the linguistic properties of CEOs and entrepreneurs, as well as quantitative analysis of large-scale corporate and web data.
 

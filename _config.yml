@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kyung eun (Trixie) Park"
 title_separator          : "-"
 name                     : &name "Kyung eun (Trixie) Park"
-description              : &description "PhD candidate at the Institut für Mittelstandsforschung (IfM), University of Mannheim. Research on top management team diversity, female entrepreneurship, and AI in entrepreneurship."
+description              : &description "PhD candidate at the Institut für Mittelstandsforschung (IfM), University of Mannheim. Research on gender, human-AI interaction, and policy in entrepreneurship."
 url                      : https://KyungEPark.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KyungEPark/KyungEPark.github.io"
