@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign cv_pdf = site.static_files | where: "path", "/files/CV_Kyung_eun_Park.pdf" | first %}
+{% assign cv_pdfs = site.static_files | where_exp: "f", "f.extname == '.pdf'" | where_exp: "f", "f.name contains 'CV'" | sort: "name" %}
+{% assign cv_pdf = cv_pdfs | last %}
 {% if cv_pdf %}
-<p><a href="{{ base_path }}/files/CV_Kyung_eun_Park.pdf">Download a PDF version of this CV</a></p>
+<p><a href="{{ base_path }}{{ cv_pdf.path }}">Download a PDF version of this CV</a></p>
 {% endif %}
 
 Education

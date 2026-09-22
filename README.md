@@ -43,10 +43,14 @@ Note the `date` field: a bare `2025` is parsed as a number and rendered as
 
 ## Updating the CV PDF
 
-Put the file at `files/CV_Kyung_eun_Park.pdf`. The download link on `/cv/`
-is conditional on that exact path existing, so it appears once the file is
-committed and disappears if it is removed - there is never a broken link.
-Overwrite the same filename when the CV changes, so the URL stays stable.
+Put the PDF in `files/` with `CV` somewhere in the filename, for example
+`Park_CV_state260730.pdf`. The download link on `/cv/` finds every PDF in
+the site whose name contains `CV`, sorts by filename and links the last
+one, so a date-stamped name works and the newest upload wins as long as
+the dates sort (YYMMDD does).
+
+Nothing needs editing when the CV is updated - just upload the new file.
+Delete the old one too, or it stays downloadable at its own URL.
 
 ## Adding a blog post
 
