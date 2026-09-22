@@ -147,6 +147,9 @@ include:
   - _pages
   - files
 exclude:
+  - markdown_generator
+  - talkmap.ipynb
+  - talkmap.py
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
