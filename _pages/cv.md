@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% assign cv_pdf = site.static_files | where: "path", "/files/CV_Kyung_eun_Park.pdf" | first %}
+{% if cv_pdf %}
+<p><a href="{{ base_path }}/files/CV_Kyung_eun_Park.pdf">Download a PDF version of this CV</a></p>
+{% endif %}
 
 Education
 ======

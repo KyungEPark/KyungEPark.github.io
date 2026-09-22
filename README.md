@@ -41,6 +41,13 @@ citation: 'Full citation text.'
 Note the `date` field: a bare `2025` is parsed as a number and rendered as
 1970, so always write the full `YYYY-MM-DD`.
 
+## Updating the CV PDF
+
+Put the file at `files/CV_Kyung_eun_Park.pdf`. The download link on `/cv/`
+is conditional on that exact path existing, so it appears once the file is
+committed and disappears if it is removed - there is never a broken link.
+Overwrite the same filename when the CV changes, so the URL stays stable.
+
 ## Adding a blog post
 
 Copy `_drafts/post-template.md` into `_posts/` and rename it
