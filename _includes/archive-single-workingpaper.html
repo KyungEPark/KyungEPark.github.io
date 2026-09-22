@@ -1,0 +1,18 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    {% if post.authors %}
+      <p>{{ post.authors }}</p>
+    {% endif %}
+    {% if post.status %}
+      <p><i>{{ post.status }}</i></p>
+    {% endif %}
+    {% if post.award %}
+      <p><strong>{{ post.award }}</strong></p>
+    {% endif %}
+  </article>
+</div>

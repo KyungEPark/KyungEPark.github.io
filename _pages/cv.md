@@ -16,6 +16,10 @@ Education
 * M.Sc. in Management (MMM), University of Mannheim (Germany), 2021
 * B.Sc. in Business Administration, Sungkyunkwan University (South Korea), 2019
 
+Awards and honors
+======
+* Best Paper Award, Babson College Entrepreneurship Research Conference (BCERC), 2026
+
 Work experience
 ======
 * Fall 2026: Visiting Student Researcher
@@ -61,6 +65,12 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Working papers
+======
+  <ul>{% for post in site.workingpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
