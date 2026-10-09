@@ -41,6 +41,30 @@ citation: 'Full citation text.'
 Note the `date` field: a bare `2025` is parsed as a number and rendered as
 1970, so always write the full `YYYY-MM-DD`.
 
+## Adding a working paper
+
+Create `_workingpapers/<year>_<name>.md`. Nothing on the list displays a
+date, so `date` is optional here; include it only to pin where an entry
+sorts, and then use a full `YYYY-MM-DD` as publications do.
+
+```yaml
+---
+title: "Paper title"
+collection: workingpapers
+permalink: /workingpapers/2026_example
+date: 2026-01-01              # optional, only affects list order
+authors: "with Coauthor, A."  # optional, shown under the title
+status: "Under review at Journal Name"
+venue: "Journal Name"
+citation: "Full citation text."
+---
+```
+
+To withhold a title while a paper is under review, write the title as
+`"(Title Hidden) <topic>"` and add `hidden_title: true`. That keeps the entry
+on the list but drops the link to its own page, so nothing invites a click
+through to detail that is being withheld.
+
 ## Updating the CV PDF
 
 Put the PDF in `files/` with `CV` somewhere in the filename, for example
